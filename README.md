@@ -21,3 +21,10 @@ This program applies basic machine learning concepts on Iris Data to predict the
   * Width of the petals
 
 # Conclusion:
+SVM model accuracy is 95.555
+
+Logistic Regression Model Accuracy is 93.333 
+
+Decission Tree Model Accuracy is 91.111
+
+We can see that SVM model is producing the better accuracy than Logistic Regression and Decision Tree Models.

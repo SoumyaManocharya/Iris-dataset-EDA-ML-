@@ -11,13 +11,13 @@ This program applies basic machine learning concepts on Iris Data to predict the
 
 * Introduction:
 
-    The dataset for this project originates from the UCI Machine Larning Repository. The Iris flower data set is a multivariate dataset.
+    The dataset for this project originates from the UCI Machine Learning Repository. The Iris flower data set is a multivariate dataset.
 
 * The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor).
 * Four features were measured from each sample (in centimeters):
-  * Lenght of the sepals
+  * Length of the sepals
   * Width of the sepals
-  * Lenght of the petals
+  * Length of the petals
   * Width of the petals
 
 # Conclusion:
@@ -25,6 +25,6 @@ SVM model accuracy is 95.555
 
 Logistic Regression Model Accuracy is 93.333 
 
-Decission Tree Model Accuracy is 91.111
+Decision Tree Model Accuracy is 91.111
 
 We can see that SVM model is producing the better accuracy than Logistic Regression and Decision Tree Models.
